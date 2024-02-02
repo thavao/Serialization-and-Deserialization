@@ -1,5 +1,5 @@
 # Projeto de Estudo
-## Serialization and Desserialization
+## Serialization and Deserialization
 ## **O que é serialização ?**
 
 "A Serialização, como implementada no namespace  **System.Runtime.Serialization**, é o processo de serializar e desserializar objetos de modo que eles possam ser armazenados ou transferidos e depois recriados. Temos assim que:
