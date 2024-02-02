@@ -1,0 +1,122 @@
+[
+  {
+    "Codigo": 1,
+    "NomeProduto": "Camiseta",
+    "Valor": 25.99,
+    "DataCompra": "2024-01-28T17:29:16.5382781-03:00"
+  },
+  {
+    "Codigo": 2,
+    "NomeProduto": "Notebook",
+    "Valor": 1299.99,
+    "DataCompra": "2024-01-30T17:29:16.5464097-03:00"
+  },
+  {
+    "Codigo": 3,
+    "NomeProduto": "Livro",
+    "Valor": 15.50,
+    "DataCompra": "2024-02-01T17:29:16.5464109-03:00"
+  },
+  {
+    "Codigo": 4,
+    "NomeProduto": "Cadeira",
+    "Valor": 89.99,
+    "DataCompra": "2024-01-26T17:29:16.546411-03:00"
+  },
+  {
+    "Codigo": 5,
+    "NomeProduto": "Mouse",
+    "Valor": 12.50,
+    "DataCompra": "2024-01-23T17:29:16.5464112-03:00"
+  },
+  {
+    "Codigo": 6,
+    "NomeProduto": "Teclado",
+    "Valor": 34.99,
+    "DataCompra": "2024-01-18T17:29:16.5464262-03:00"
+  },
+  {
+    "Codigo": 7,
+    "NomeProduto": "Celular",
+    "Valor": 599.99,
+    "DataCompra": "2024-01-31T17:29:16.5464264-03:00"
+  },
+  {
+    "Codigo": 8,
+    "NomeProduto": "Monitor",
+    "Valor": 199.99,
+    "DataCompra": "2024-01-27T17:29:16.5464265-03:00"
+  },
+  {
+    "Codigo": 9,
+    "NomeProduto": "Fone de Ouvido",
+    "Valor": 49.99,
+    "DataCompra": "2024-01-25T17:29:16.5464267-03:00"
+  },
+  {
+    "Codigo": 10,
+    "NomeProduto": "Mesa",
+    "Valor": 129.99,
+    "DataCompra": "2024-01-21T17:29:16.5464274-03:00"
+  },
+  {
+    "Codigo": 11,
+    "NomeProduto": "Impressora",
+    "Valor": 179.99,
+    "DataCompra": "2024-01-29T17:29:16.5464275-03:00"
+  },
+  {
+    "Codigo": 12,
+    "NomeProduto": "Chinelo",
+    "Valor": 9.99,
+    "DataCompra": "2024-01-24T17:29:16.5464276-03:00"
+  },
+  {
+    "Codigo": 13,
+    "NomeProduto": "Câmera",
+    "Valor": 299.99,
+    "DataCompra": "2024-01-22T17:29:16.5464278-03:00"
+  },
+  {
+    "Codigo": 14,
+    "NomeProduto": "Headset",
+    "Valor": 69.99,
+    "DataCompra": "2024-01-19T17:29:16.5464279-03:00"
+  },
+  {
+    "Codigo": 15,
+    "NomeProduto": "Smartwatch",
+    "Valor": 119.99,
+    "DataCompra": "2024-01-20T17:29:16.546428-03:00"
+  },
+  {
+    "Codigo": 16,
+    "NomeProduto": "Mochila",
+    "Valor": 39.99,
+    "DataCompra": "2024-01-17T17:29:16.5464281-03:00"
+  },
+  {
+    "Codigo": 17,
+    "NomeProduto": "Tablet",
+    "Valor": 199.99,
+    "DataCompra": "2024-01-15T17:29:16.5464283-03:00"
+  },
+  {
+    "Codigo": 18,
+    "NomeProduto": "Bolsa",
+    "Valor": 29.99,
+    "DataCompra": "2024-01-13T17:29:16.5464285-03:00"
+  },
+  {
+    "Codigo": 19,
+    "NomeProduto": "Carregador",
+    "Valor": 14.99,
+    "DataCompra": "2024-01-16T17:29:16.5464287-03:00"
+  },
+  {
+    "Codigo": 20,
+    "NomeProduto": "Ventilador",
+    "Valor": 79.99,
+    "DataCompra": "2024-01-14T17:29:16.5464288-03:00"
+  }
+]
