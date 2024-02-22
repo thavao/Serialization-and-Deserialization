@@ -22,6 +22,7 @@ A Solução tem dois projetos: **GeraListaVendas** e **ListaAlunos**
 **ListaAlunos**: Usei o **ChatGPT** para gerar um **Json** com dados de alunos fictícios. O programa **Desserializa** esses dados em **Objetos C#**, depois lê as médias dos alunos define se foram aprovados ou não e mostra esses dados na tela.
 
 ## Como utilizar ?
+Certifique de ter instalado em sua maquina a versão 7 ou superior do .Net Consulte a [documentação](https://learn.microsoft.com/pt-br/dotnet/core/install/)
 
  1. Baixe os arquivos do projeto
  2. Vá até a pasta do projeto que deseja rodar
